@@ -1,8 +1,4 @@
-# Model-based Policy Optimization with Trajectory Self-correction and Q-function Discriminator
-
-This repository contains a TensorFlow implementation of [SC-QD-MBPO]
-
-期刊：Applied Intelligence
+# Enhancing Model Learning in Reinforcement Learning through Q-Function-Guided Trajectory Alignment
 
 
 ## Requirements
@@ -12,7 +8,7 @@ This repository contains a TensorFlow implementation of [SC-QD-MBPO]
 
 ## Running
 Configuration files can be found in [`config/`](config). 
-
+`
 Run
 ```
 python main.py --config=config.ant
